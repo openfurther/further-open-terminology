@@ -1,4 +1,4 @@
-further-open-terminology
-========================
+OpenFurther Terminology
+----------------------
 
 OpenFurther terminology artifacts
